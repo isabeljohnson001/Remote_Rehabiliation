@@ -68,5 +68,5 @@ Contributions to the project are welcome! Please fork the repository and submit 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-- Your Name - isabeljohnson001@gmail.com
+- isabeljohnson001@gmail.com
 - Project Link: https://github.com/yourusername/real-time-rehabilitation-system
