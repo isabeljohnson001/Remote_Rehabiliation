@@ -49,8 +49,8 @@ def get_s3_img_url(bucket_name, object_name):
 # Main section to execute the functions
 if __name__ == "__main__":
     # Set these values appropriately
-    your_bucket_name = 'your-s3-bucket-name'
-    image_local_path = 'path/to/your/image.jpg'
+    your_bucket_name = 'remote-rehab'
+    image_local_path = 'remote-rehab/output/image.jpg'
     image_s3_name = 'your-image-name.jpg'
 
     # Upload the image to the S3 bucket
