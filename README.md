@@ -16,9 +16,7 @@ This project implements a real-time rehabilitation treatment system that utilize
 - **Enhanced Remote Supervision**: Healthcare providers can remotely monitor patient progress through uploaded images and alerts.
 - **Efficient Data Handling**: GPU acceleration ensures that image processing and pose detection are performed quickly and efficiently, making the system suitable for real-time applications.
 - **Comprehensive Reports**: Automated alerts and notifications ensure that significant events are promptly reported, facilitating timely interventions.
-<p align="center">
-  ![Rehabilitation Treatment System](remote-rehabilitation/rehab.jpeg)
-</p>
+
 ![Rehabilitation Treatment System](remote-rehabilitation/rehab.jpeg)
 
 ## System Requirements
